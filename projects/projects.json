@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Url Shortner",
+    "desc": "The application efficiently converts long URLs into shortner, userfriendly links, enhancing accessibility and sharing.",
+    "image": "Url_Shortner",
+    "category": "Web Development",
+    "links": {
+      "code": "https://github.com/priyanshudalal555/UrlShortner",
+      "view": "https://urllshortner.netlify.app/"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "The WeatherApp provides real-time weather information to users, demonstrating my ability to integrate APIs, design user-friendly interfaces, and implement dynamic functionality.",
+    "image": "WebApp",
+    "category": "Web Development",
+    "links": {
+      "code": "https://github.com/priyanshudalal555/WeatherApp",
+      "view": "https://weather-app-priyanshudalal.netlify.app/"
+    }
+  }
+]
